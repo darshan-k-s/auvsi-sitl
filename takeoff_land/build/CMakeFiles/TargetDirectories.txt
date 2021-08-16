@@ -1,0 +1,3 @@
+/home/darshan/MAVSDK/examples/takeoff_land/build/CMakeFiles/rebuild_cache.dir
+/home/darshan/MAVSDK/examples/takeoff_land/build/CMakeFiles/takeoff_and_land.dir
+/home/darshan/MAVSDK/examples/takeoff_land/build/CMakeFiles/edit_cache.dir
